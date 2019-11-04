@@ -1,0 +1,25 @@
+{
+  "name": "init.js",
+  "version": "1.0.0",
+  "description": "json",
+  "main": "input.js",
+  "scripts": {
+    "test": "var=\"cats\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amleonerd/GroceryApp.git"
+  },
+  "keywords": [
+    "fast"
+  ],
+  "author": "amleonerd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amleonerd/GroceryApp/issues"
+  },
+  "homepage": "https://github.com/amleonerd/GroceryApp#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
