@@ -14,3 +14,5 @@ var  set_new_item = x + y;
 console.log("your item was successfull added to our database" + updateInventory);
 
 module.exports.set_new_item = set_new_item; 
+
+app.use(express.static(path.join(__dirname, '"you are requesting the index page"')));
