@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/amleonerd/GroceryApp#readme",
   "dependencies": {
-    "http-server": "^0.11.1",
+    "http-server": "^0.11.2",
     "mysql": "^2.17.1"
   },
   "devDependencies": {}
